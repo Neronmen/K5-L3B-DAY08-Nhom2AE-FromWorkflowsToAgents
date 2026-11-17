@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Integration + 3 shape (workflow, single, orchestrator) + crash/benchmark |
+|   1 | Phạm Nguyên Khoa | 2A202603795 | pnkvlog1508@gmail.com | Neronmen | Integration + 3 shape (workflow, single, orchestrator) + crash/benchmark |
 |   2 | Nguyễn Ngọc Ninh | 2A202603774 | sevenminutes2311@gmail.com | sevenminutes2311-creator | Evaluation + test policy gate + ADR + research card + báo cáo nhóm |
 
 Gợi ý chia vai:
