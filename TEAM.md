@@ -3,8 +3,8 @@
 ## Thông tin nhóm
 
 - Tên nhóm: Nhom2AE
-- Lớp: L3A
-- Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
+- Lớp: L3B
+- Repo nhóm: `K5-L3B-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
 - URL repo, nhánh nộp, commit chốt: https://github.com/Neronmen/K5-L3B-DAY08-Nhom2AE-FromWorkflowsToAgents, nhánh `main`, commit chốt: (ghi trong `report/team/decision_adr.md`)
 
 ## Thành viên
