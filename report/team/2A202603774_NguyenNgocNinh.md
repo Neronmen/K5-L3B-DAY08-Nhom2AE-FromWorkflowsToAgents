@@ -27,7 +27,7 @@
 
 ## 4. Bằng chứng
 
-- Commit test kỹ thuật: `9e8f63a` (`src/tests/test_team_policy_gate.py`).
+- Commit test kỹ thuật: `9e8f63a` (`src/tests/test_team_policy_gate.py`), commit báo cáo: `c8d9515`.
 - Chạy cổng host kèm test mới (`python -m pytest -q`): `81 passed, 248 deselected` (tăng từ 69 lên 81 test xanh).
 - Kiểm tra định dạng nộp bài (`python -m lab8.check_submission`): `0 FAIL`.
 - Run id dẫn chứng:

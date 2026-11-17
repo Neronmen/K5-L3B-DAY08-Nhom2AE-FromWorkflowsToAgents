@@ -9,7 +9,7 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 - Thành viên: xem `TEAM.md`
   1. Phạm Nguyên Khoa (`2A202603795`, GitHub: `Neronmen`) — Integration, cài đặt 3 shape (`workflow`, `single`, `orchestrator`), test an toàn crash/trace (`test_team_shapes_safety.py`), sinh `benchmark.json` & `crash.json`.
   2. Nguyễn Ngọc Ninh (`2A202603774`, GitHub: `sevenminutes2311-creator`) — Evaluation, viết test cổng policy & trần hoàn tiền (`test_team_policy_gate.py`), điền ADR (`decision_adr.md`), phiếu nghiên cứu (`research_card.md`) và báo cáo nhóm (`group_report.md`).
-- Commit chốt (trùng `report/team/decision_adr.md`): xem dòng `- Commit hash:` trong `report/team/decision_adr.md`
+- Commit chốt (trùng `report/team/decision_adr.md`): `c8d9515`
 
 ## 2. Mục tiêu và cách tiếp cận
 

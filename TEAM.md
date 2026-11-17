@@ -5,7 +5,7 @@
 - Tên nhóm: Nhom2AE
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/Neronmen/K5-L3B-DAY08-Nhom2AE-FromWorkflowsToAgents, nhánh `main` / `2A202603774_NguyenNgocNinh`, commit chốt: (ghi trong `report/team/decision_adr.md`)
+- URL repo, nhánh nộp, commit chốt: https://github.com/Neronmen/K5-L3B-DAY08-Nhom2AE-FromWorkflowsToAgents, nhánh `main` / `2A202603774_NguyenNgocNinh`, commit chốt: `c8d9515` (ghi trong `report/team/decision_adr.md`)
 
 ## Thành viên
 
@@ -26,7 +26,7 @@ Gợi ý chia vai:
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
 | Phạm Nguyên Khoa | Integration, 3 shape, crash, benchmark | `75ae9e4`, `19cd820` | `src/tests/test_team_shapes_safety.py` (15 test: crash 3 điểm × 3 shape, ticket nói dối seed 55, quét secret/PII trong trace) |
-| Nguyễn Ngọc Ninh | Evaluation, policy gate test, ADR, research card, báo cáo nhóm | `9e8f63a` | `src/tests/test_team_policy_gate.py` (12 test: C-004 thiếu order_id, C-013 đơn đã hoàn đủ + audit policy_denied, C-014 hoàn phần chênh 120k, C-007/C-008 cổng approval × 3 shape) |
+| Nguyễn Ngọc Ninh | Evaluation, policy gate test, ADR, research card, báo cáo nhóm | `9e8f63a`, `c8d9515` | `src/tests/test_team_policy_gate.py` (12 test: C-004 thiếu order_id, C-013 đơn đã hoàn đủ + audit policy_denied, C-014 hoàn phần chênh 120k, C-007/C-008 cổng approval × 3 shape) |
 
 ## Cá nhân
 
